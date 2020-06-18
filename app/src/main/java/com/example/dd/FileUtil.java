@@ -22,6 +22,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Hashtable;
 
+import androidx.annotation.NonNull;
+
 public class FileUtil {
 
     private static final String TAG = FileUtil.class.getSimpleName();
